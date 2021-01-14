@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: This Is A Big Hero Headlineeefeefsfefefdsfs
-    subtitle: Optional hero section subtitle
+    subtitle: Optional hero section subtitlefdsf
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
